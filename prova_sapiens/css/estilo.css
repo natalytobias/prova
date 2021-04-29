@@ -1,0 +1,44 @@
+*{
+
+    margin: 0 px;
+    padding: 0px;
+
+}
+
+header{
+    background: #4b535d9c;
+    text-align: left;
+    padding: 2px;
+}
+
+body{
+
+    background:  #ffffff;
+    background-size: 100%;
+    
+    
+}
+
+#menu-horizontal{
+    list-style: none;
+    padding: 0;
+    background-color: rgba(99, 96, 96, 0.253);
+}
+
+#menu-horizontal li{
+    display: inline;
+}
+
+#menu-horizontal li a{
+    display: inline;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display:inline-block
+}
+
+.container-fluid{
+    max-width: 440px;
+    background: #adb5bd47;
+    padding: 20px;
+}
